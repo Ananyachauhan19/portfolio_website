@@ -971,6 +971,19 @@ img {
   color: #222;
 }
 
+.hidden {
+  display: none;
+}
+
+.toggle-btn {
+  background: none;
+  border: none;
+  font-size: 1rem;
+  color: #007BFF;
+  cursor: pointer;
+  margin-bottom: 0.5rem;
+}
+
 .video__description {
   font-size: 0.95rem;
   margin-bottom: 1rem;
